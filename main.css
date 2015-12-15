@@ -1,0 +1,45 @@
+/* comment css*/
+#contact{
+    width:600px;
+    margin:20px auto;
+}
+
+#header {
+    background-color:green;
+    
+}
+#slogan {
+    color:white;
+}
+#nav a{
+    text-decoration:none;
+    padding:0px 10px;
+}
+#nav {
+    background-color:green;
+    border-style:solid;
+    border-radius:15px;
+    border-color:cornflowerblue;
+    padding:10px;
+    
+}
+#left {
+    position:fixed;
+    left:0px;
+    top:0px;
+}
+#right {
+    position:fixed;
+    top:0px;
+    right:0px;
+}
+
+body {
+    width:100%;
+}
+#contentA {
+    background-color:green;
+}
+h5{
+    color:lightgray;
+}
